@@ -22,6 +22,10 @@ strong {
   color: white;
 }
 
+a {
+  color: DarkOrchid;
+}
+
 h1 {
    font-family: "Koulen", sans-serif;
   font-size: 30px;
