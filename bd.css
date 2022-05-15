@@ -23,7 +23,7 @@ strong {
 }
 
 a {
-  color: DarkOrchid;
+  color: DarkOrchid !important;
 }
 
 h1 {
