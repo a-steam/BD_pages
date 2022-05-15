@@ -41,12 +41,10 @@ h2 {
 }
 
 hr {
-  	border: top; 
-	height: 1px;
-	width: 100%;
-	margin: 0px;
-	color: orange;
-	background-color: orange;
+  	height: 1px;
+    	color: orange;
+    	background-color: orange;
+    	border: none;
 }
 
 li {
