@@ -43,6 +43,9 @@ h2 {
 hr {
   border-top: 1px dotted orange;
   background-color: #270C48;
+  height: 1px;
+	width: 100%;
+	margin: 0px;
 }
 
 li {
