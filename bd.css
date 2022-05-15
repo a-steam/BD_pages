@@ -41,6 +41,7 @@ h2 {
 }
 
 hr {
+  background-color: #270C48; 
   height: 1px;
   border: none;
   width: 100%;
