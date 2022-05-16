@@ -8,12 +8,11 @@ body {
   font-size: 16px;
   background-color: #261535;
   color: #aaa;
-  margin: 50px 50px 50px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 p {
   font-size: 16px;
-  margin: 50px 50px 50px 50px;
 }
 
 em {
